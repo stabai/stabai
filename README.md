@@ -18,3 +18,5 @@ In addition to programming, I'm a big fan of:
 * 🎤 Karaoke
 
 You can also find me on [LinkedIn](https://www.linkedin.com/in/shawntabai/) or [Odyssey](https://community.join-odyssey.com/c/profile?user=8258d2fc).
+
+![Engage!](https://github.com/stabai/stabai.github.io/raw/master/resources/engage.png)
